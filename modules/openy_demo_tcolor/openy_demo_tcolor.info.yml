@@ -8,6 +8,6 @@ dependencies:
   - drupal:migrate
   - migrate_plus:migrate_plus
   - migrate_tools:migrate_tools
-  - openy_node:openy_node
+  - openy_txnm_color:openy_txnm_color
   - openy_demo_taxonomy:openy_demo_taxonomy
   - drupal:taxonomy
