@@ -5,7 +5,8 @@ dependencies:
     module:
       - openy_demo_tcolor
 id: openy_demo_taxonomy_term_color
-migration_tags: {  }
+migration_tags:
+  - openy_core_installation
 migration_group: openy_demo_term
 label: 'Create demo color terms'
 source:
