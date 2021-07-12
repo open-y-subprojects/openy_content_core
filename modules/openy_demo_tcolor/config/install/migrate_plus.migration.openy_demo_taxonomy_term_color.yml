@@ -89,6 +89,7 @@ process:
     source: language
     default_value: en
   name: name
+  field_color/name: name
   field_color/color: color
   vid:
     plugin: default_value
